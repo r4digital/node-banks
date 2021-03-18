@@ -1,0 +1,8 @@
+recursive: true
+reporter: spec
+slow: 500
+timeout: 2000
+exit: true
+check-leaks: true
+require:
+  - 'ts-node/register'

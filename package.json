@@ -8,6 +8,7 @@
     "clean": "tsc --build --clean",
     "build": "tsc",
     "download": "ts-node scripts/download-list.ts",
+    "status": "ts-node scripts/git-status.ts",
     "prepublishOnly": "npm run build",
     "test": "mocha 'src/*.test.ts'"
   },

@@ -8,7 +8,7 @@ import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
 
 dayjs.extend(customParseFormat);
-const BANK_CSV_ENDPOINT = 'http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv';
+const BANK_CSV_ENDPOINT = 'https://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv';
 
 interface Bank {
   ispb: number;
@@ -117,10 +117,13 @@ const save = (list: Bank[]) => {
       console.error(error.response.status);
       console.error(error.response.headers);
     } else if (error.request) {
-      console.error(error.request);
+      console.error('Error request fail');
     } else {
       console.error('Error', error);
     }
     process.exit(1);
   }
 })();
+
+
+npm version <update_type>

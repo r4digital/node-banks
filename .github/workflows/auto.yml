@@ -18,5 +18,7 @@ jobs:
         name: Install Node dependencies
       - run: npm run download
         name: Download new bank list
+      - run: npm run test
+        name: Test data.json
       - run: npm run status
         name: Check and commit

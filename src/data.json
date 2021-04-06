@@ -505,11 +505,11 @@
   },
   {
     "ispb": 4814563,
-    "name": "SOROCRED CFI S.A.",
+    "name": "BCO SOROCRED S.A. - BM",
     "code": 299,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "full_name": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
     "start_of_operation": "2018-12-03"
   },
   {
@@ -1269,6 +1269,15 @@
     "start_of_operation": "2015-04-27"
   },
   {
+    "ispb": 19324634,
+    "name": "LAMARA SCD S.A.",
+    "code": 416,
+    "participate_of_compe": false,
+    "main_access": "Internet",
+    "full_name": "LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-04-08"
+  },
+  {
     "ispb": 20155248,
     "name": "PARMETAL DTVM LTDA",
     "code": 194,
@@ -1375,6 +1384,15 @@
     "main_access": "RSFN",
     "full_name": "AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
     "start_of_operation": "2019-10-24"
+  },
+  {
+    "ispb": 27302181,
+    "name": "CRED-UFES",
+    "code": 427,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "start_of_operation": "2021-04-26"
   },
   {
     "ispb": 27351731,
@@ -1791,6 +1809,15 @@
     "start_of_operation": "2020-10-16"
   },
   {
+    "ispb": 37526080,
+    "name": "WORK SCD S.A.",
+    "code": 414,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "WORK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-03-25"
+  },
+  {
     "ispb": 37715993,
     "name": "ACCREDITO SCD S.A.",
     "code": 406,
@@ -1900,7 +1927,7 @@
   },
   {
     "ispb": 50585090,
-    "name": "BCV",
+    "name": "BCV - BCO, CRÉDITO E VAREJO S.A.",
     "code": 250,
     "participate_of_compe": false,
     "main_access": "RSFN",

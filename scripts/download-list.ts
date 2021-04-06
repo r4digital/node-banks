@@ -111,7 +111,7 @@ const save = (list: Bank[]) => {
     save(list);
     console.info('done');
 
-    process.exit(1);
+    process.exit(0);
   } catch (error) {
     if (error.response) {
       console.error(error.response.status);
@@ -124,6 +124,3 @@ const save = (list: Bank[]) => {
     process.exit(1);
   }
 })();
-
-
-npm version <update_type>

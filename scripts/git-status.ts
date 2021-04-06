@@ -12,11 +12,12 @@ if (!has_content) {
   process.exit(0);
 }
 
+execSync('git config --global user.name henrique502');
+execSync('git config --global user.email henrique.rieger@gmail.com');
+
 console.info(execSync('npm version minor -f').toString());
 const { version } = require('../package.json');
 try {
-  console.info(execSync('git config user.name henrique502').toString());
-  console.info(execSync('git config user.email henrique.rieger@gmail.com').toString());
   console.info(execSync('npm install').toString());
   console.info(execSync('git add .').toString());
   console.info(execSync('git status').toString());

@@ -15,8 +15,8 @@ if (!has_content) {
 console.info(execSync('npm version minor -f').toString());
 const { version } = require('../package.json');
 try {
-  // console.info(execSync('git config user.name github-actions').toString());
-  // console.info(execSync('git config user.email github-actions@github.com').toString());
+  console.info(execSync('git config user.name henrique502').toString());
+  console.info(execSync('git config user.email henrique.rieger@gmail.com').toString());
   console.info(execSync('npm install').toString());
   console.info(execSync('git add .').toString());
   console.info(execSync('git status').toString());

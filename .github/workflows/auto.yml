@@ -1,0 +1,22 @@
+name: Check new banks
+
+on:
+  schedule:
+    - cron:  '0 15 * * *'
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+        name: Checkout
+      - uses: actions/setup-node@v2.1.5
+        name: Setup Node.js environment
+      - run: npm install
+        name: Install Node dependencies
+      - run: npm run download
+        name: Download new bank list
+      - run: npm run status
+        name: Check and commit

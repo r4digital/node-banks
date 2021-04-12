@@ -1,6 +1,6 @@
 import { Readable, Transform } from 'stream';
 import { join } from 'path';
-import { writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import axios, { AxiosError, AxiosResponse } from 'axios';
 import csv from 'csv-parser';
 import dayjs from 'dayjs';
@@ -9,6 +9,15 @@ import customParseFormat from 'dayjs/plugin/customParseFormat';
 
 dayjs.extend(customParseFormat);
 const BANK_CSV_ENDPOINT = 'https://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv';
+
+const ROWS_FILE = join(__dirname, '..', '.rows');
+
+const setRowsFile = (): void => {
+  const data: string = readFileSync(join(__dirname, '..', 'src', 'data.json'))
+    .toString('utf-8');
+  const json: Bank[] = JSON.parse(data);
+  writeFileSync(ROWS_FILE, `${json.length}`);
+}
 
 interface Bank {
   ispb: number;
@@ -107,6 +116,7 @@ const save = (list: Bank[]) => {
 
 (async () => {
   try {
+    setRowsFile();
     const list = await fetch();
     save(list);
     console.info('done');

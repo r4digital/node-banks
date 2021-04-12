@@ -1,4 +1,14 @@
 import { execSync } from 'child_process';
+import { join } from 'path';
+import { readFileSync } from 'fs';
+
+const banks: object[] = require('../src/data.json');
+
+const ROWS_FILE = join(__dirname, '..', '.rows');
+
+const getRowsFile = (): number => {
+  return parseInt(readFileSync(ROWS_FILE).toString(), 10);
+}
 
 const TARGET = 'M src/data.json';
 const result = execSync('git status --porcelain -b');
@@ -7,8 +17,9 @@ const lines = result.toString()
   .split('\n')
   .map((line) => line.trim());
 const has_content = lines.find((line) => line === TARGET);
+const has_changed = banks.length !== getRowsFile();
 
-if (!has_content) {
+if (!has_content || has_changed) {
   process.exit(0);
 }
 

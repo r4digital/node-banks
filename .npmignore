@@ -24,3 +24,4 @@ example/
 .github
 
 npm-debug.log
+.rows

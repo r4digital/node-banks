@@ -1,25 +1,18 @@
 import { execSync } from 'child_process';
 import { join } from 'path';
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
+import checksum from './checksum';
 
-const banks: object[] = require('../src/data.json');
+const hash_location = join(__dirname, '..', 'src', 'data.checksum');
+const file_location = join(__dirname, '..', 'src', 'data.json');
+const current_hash = readFileSync(hash_location).toString('utf-8').trim();
+const new_hash = checksum.generateFromFile(file_location);
+const has_same_hash = current_hash === new_hash;
 
-const ROWS_FILE = join(__dirname, '..', '.rows');
+console.log('current_hash', current_hash);
+console.log('new_hash', new_hash);
 
-const getRowsFile = (): number => {
-  return parseInt(readFileSync(ROWS_FILE).toString(), 10);
-}
-
-const TARGET = 'M src/data.json';
-const result = execSync('git status --porcelain -b');
-const lines = result.toString()
-  .trim()
-  .split('\n')
-  .map((line) => line.trim());
-const has_content = lines.find((line) => line === TARGET);
-const has_changed = banks.length !== getRowsFile();
-
-if (!has_content || has_changed) {
+if (has_same_hash) {
   process.exit(0);
 }
 
@@ -29,6 +22,7 @@ execSync('git config --global user.email henrique.rieger@gmail.com');
 console.info(execSync('npm version minor -f').toString());
 const { version } = require('../package.json');
 try {
+  writeFileSync(hash_location, new_hash);
   console.info(execSync('npm install').toString());
   console.info(execSync('git add .').toString());
   console.info(execSync('git status').toString());

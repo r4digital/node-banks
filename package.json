@@ -1,12 +1,13 @@
 {
   "name": "@r4digital/banks",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "Bank list",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
     "clean": "tsc --build --clean",
     "build": "tsc",
+    "postbuild": "cpy --cwd=src --parents '**/*.json' ../lib/",
     "download": "ts-node scripts/download-list.ts",
     "status": "ts-node scripts/git-status.ts",
     "prepublishOnly": "npm run build",
@@ -26,6 +27,7 @@
     "@typescript-eslint/parser": "^4.15.2",
     "axios": "^0.21.1",
     "chai": "^4.3.4",
+    "cpy-cli": "^3.1.1",
     "csv-parser": "^3.0.0",
     "dayjs": "^1.10.4",
     "eslint": "^7.2.0",

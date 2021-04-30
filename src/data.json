@@ -1783,11 +1783,11 @@
   },
   {
     "ispb": 36586946,
-    "name": "BÔNUSCRED SCD S.A.",
+    "name": "BONUSPAGO SCD S.A.",
     "code": 408,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "BÔNUSCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2020-10-14"
   },
   {
@@ -2374,6 +2374,15 @@
     "main_access": "RSFN",
     "full_name": "Guide Investimentos S.A. Corretora de Valores",
     "start_of_operation": "2017-05-08"
+  },
+  {
+    "ispb": 67030395,
+    "name": "PLANNER TRUSTEE DTVM LTDA",
+    "code": 438,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2021-05-04"
   },
   {
     "ispb": 68757681,

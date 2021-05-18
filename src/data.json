@@ -243,6 +243,15 @@
     "start_of_operation": "2020-09-11"
   },
   {
+    "ispb": 1858774,
+    "name": "BCO BV S.A.",
+    "code": 413,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "BANCO BV S.A.",
+    "start_of_operation": "2021-05-21"
+  },
+  {
     "ispb": 2038232,
     "name": "BANCO SICOOB S.A.",
     "code": 756,
@@ -925,6 +934,15 @@
     "main_access": "RSFN",
     "full_name": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
     "start_of_operation": "2020-10-13"
+  },
+  {
+    "ispb": 11285104,
+    "name": "BIORC FINANCEIRA - CFI S.A.",
+    "code": 426,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
+    "start_of_operation": "2021-05-21"
   },
   {
     "ispb": 11476673,

@@ -1135,7 +1135,7 @@
   },
   {
     "ispb": 15111975,
-    "name": "IUGU SERVICOS NA INTERNET S/A",
+    "name": "IUGU IP S.A.",
     "code": 401,
     "participate_of_compe": false,
     "main_access": "RSFN",
@@ -1915,6 +1915,15 @@
     "main_access": "RSFN",
     "full_name": "PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
     "start_of_operation": "2017-11-21"
+  },
+  {
+    "ispb": 44077014,
+    "name": "BR-CAPITAL DTVM S.A.",
+    "code": 433,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "start_of_operation": "2021-06-21"
   },
   {
     "ispb": 44189447,

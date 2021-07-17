@@ -1899,6 +1899,15 @@
     "start_of_operation": "2021-03-18"
   },
   {
+    "ispb": 39343350,
+    "name": "CC LAR CREDI",
+    "code": 421,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI",
+    "start_of_operation": "2021-07-21"
+  },
+  {
     "ispb": 39664698,
     "name": "CRED-SYSTEM SCD S.A.",
     "code": 428,

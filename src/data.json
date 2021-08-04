@@ -729,6 +729,15 @@
     "start_of_operation": "2021-02-09"
   },
   {
+    "ispb": 7799277,
+    "name": "VALOR SCD S.A.",
+    "code": 195,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-08-09"
+  },
+  {
     "ispb": 7853842,
     "name": "CCR DE OURO",
     "code": 286,

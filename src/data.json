@@ -36,6 +36,15 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 204963,
+    "name": "CCR SEARA",
+    "code": 430,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA",
+    "start_of_operation": "2021-08-27"
+  },
+  {
     "ispb": 250699,
     "name": "AGK CC S.A.",
     "code": 272,
@@ -604,11 +613,11 @@
   },
   {
     "ispb": 5491616,
-    "name": "CC POUP SER FIN CO",
+    "name": "COOP CREDITAG",
     "code": 400,
     "participate_of_compe": false,
     "main_access": "Internet",
-    "full_name": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE",
+    "full_name": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
     "start_of_operation": "2021-02-24"
   },
   {
@@ -1915,6 +1924,15 @@
     "main_access": "RSFN",
     "full_name": "NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-03-18"
+  },
+  {
+    "ispb": 38224857,
+    "name": "DELCRED SCD S.A.",
+    "code": 435,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-08-27"
   },
   {
     "ispb": 39343350,

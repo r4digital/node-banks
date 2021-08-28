@@ -2646,6 +2646,15 @@
     "start_of_operation": "2012-12-10"
   },
   {
+    "ispb": 82096447,
+    "name": "CECM BRF",
+    "code": 440,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF",
+    "start_of_operation": "2021-09-02"
+  },
+  {
     "ispb": 89960090,
     "name": "RB INVESTIMENTOS DTVM LTDA.",
     "code": 283,

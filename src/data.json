@@ -675,6 +675,15 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 7253654,
+    "name": "HEDGE INVESTMENTS DTVM LTDA.",
+    "code": 458,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2021-09-08"
+  },
+  {
     "ispb": 7450604,
     "name": "BCO CCB BRASIL S.A.",
     "code": 320,
@@ -1971,6 +1980,15 @@
     "start_of_operation": "2019-02-06"
   },
   {
+    "ispb": 40654622,
+    "name": "TRINUS SCD S.A.",
+    "code": 444,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-09-09"
+  },
+  {
     "ispb": 42272526,
     "name": "BNY MELLON BCO S.A.",
     "code": 17,
@@ -2134,11 +2152,11 @@
   },
   {
     "ispb": 58497702,
-    "name": "SMARTBANK",
+    "name": "BCO LETSBANK S.A.",
     "code": 630,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Banco Smartbank S.A.",
+    "full_name": "BANCO LETSBANK S.A.",
     "start_of_operation": "2002-04-22"
   },
   {

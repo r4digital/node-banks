@@ -1980,6 +1980,15 @@
     "start_of_operation": "2021-08-17"
   },
   {
+    "ispb": 39676772,
+    "name": "CREDIFIT SCD S.A.",
+    "code": 452,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-09-15"
+  },
+  {
     "ispb": 40303299,
     "name": "PORTOPAR DTVM LTDA",
     "code": 306,
@@ -2680,6 +2689,15 @@
     "main_access": "RSFN",
     "full_name": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF",
     "start_of_operation": "2021-09-02"
+  },
+  {
+    "ispb": 87963450,
+    "name": "MAGNETIS - DTVM",
+    "code": 442,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "start_of_operation": "2021-09-15"
   },
   {
     "ispb": 89960090,

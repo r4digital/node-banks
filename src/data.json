@@ -1044,6 +1044,15 @@
     "start_of_operation": "2018-06-12"
   },
   {
+    "ispb": 12392983,
+    "name": "MIRAE ASSET CCTVM LTDA",
+    "code": 447,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+    "start_of_operation": "2021-09-27"
+  },
+  {
     "ispb": 12865507,
     "name": "BRK S.A. CFI",
     "code": 92,
@@ -2458,11 +2467,11 @@
   },
   {
     "ispb": 62169875,
-    "name": "EASYNVEST - TÍTULO CV SA",
+    "name": "NU INVEST CORRETORA DE VALORES S.A.",
     "code": 140,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Easynvest - Título Corretora de Valores SA",
+    "full_name": "NU INVEST CORRETORA DE VALORES S.A.",
     "start_of_operation": "2015-05-26"
   },
   {

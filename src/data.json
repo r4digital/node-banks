@@ -1935,6 +1935,15 @@
     "start_of_operation": "2021-03-25"
   },
   {
+    "ispb": 37555231,
+    "name": "DMCARD SCD S.A.",
+    "code": 449,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-10-22"
+  },
+  {
     "ispb": 37715993,
     "name": "ACCREDITO SCD S.A.",
     "code": 406,

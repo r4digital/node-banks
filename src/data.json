@@ -298,11 +298,11 @@
   },
   {
     "ispb": 2398976,
-    "name": "UNIPRIME NORTE DO PARANÁ - CC",
+    "name": "UNIPRIME DO BRASIL - CC LTDA.",
     "code": 84,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE CRÉDITO LTDA",
+    "full_name": "UNIPRIME DO BRASIL - COOPERATIVA DE CRéDITO LTDA.",
     "start_of_operation": "2009-11-24"
   },
   {
@@ -1989,6 +1989,15 @@
     "start_of_operation": "2021-07-21"
   },
   {
+    "ispb": 39587424,
+    "name": "PLATACRED SCD S.A.",
+    "code": 457,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "PLATACRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2021-10-26"
+  },
+  {
     "ispb": 39664698,
     "name": "CRED-SYSTEM SCD S.A.",
     "code": 428,
@@ -2719,11 +2728,11 @@
   },
   {
     "ispb": 82096447,
-    "name": "CECM BRF",
+    "name": "CREDIBRF COOP",
     "code": 440,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF",
+    "full_name": "CREDIBRF - COOPERATIVA DE CRÉDITO",
     "start_of_operation": "2021-09-02"
   },
   {

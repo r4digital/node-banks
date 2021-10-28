@@ -513,6 +513,15 @@
     "start_of_operation": "2002-11-27"
   },
   {
+    "ispb": 4546162,
+    "name": "CCM SERV. PÚBLICOS SP",
+    "code": 459,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "start_of_operation": "2021-11-04"
+  },
+  {
     "ispb": 4632856,
     "name": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
     "code": 97,
@@ -1999,11 +2008,11 @@
   },
   {
     "ispb": 39587424,
-    "name": "PLATACRED SCD S.A.",
+    "name": "UY3 SCD S/A",
     "code": 457,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "PLATACRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "UY3 SOCIEDADE DE CRÉDITO DIRETO S/A",
     "start_of_operation": "2021-10-26"
   },
   {

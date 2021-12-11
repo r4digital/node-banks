@@ -1836,6 +1836,15 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 33886862,
+    "name": "MASTER S/A CCTVM",
+    "code": 467,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",
+    "start_of_operation": "2021-12-16"
+  },
+  {
     "ispb": 33923798,
     "name": "BANCO MASTER",
     "code": 243,

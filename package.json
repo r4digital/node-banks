@@ -1,6 +1,6 @@
 {
   "name": "@r4digital/banks",
-  "version": "1.54.0",
+  "version": "1.55.0",
   "description": "Bank list",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",

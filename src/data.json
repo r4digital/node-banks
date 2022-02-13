@@ -455,7 +455,7 @@
     "code": 190,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS DO RIO GRAN",
+    "full_name": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
     "start_of_operation": "2017-10-16"
   },
   {
@@ -547,6 +547,15 @@
     "main_access": "RSFN",
     "full_name": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
     "start_of_operation": "2018-12-03"
+  },
+  {
+    "ispb": 4862600,
+    "name": "PORTOSEG S.A. CFI",
+    "code": 468,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "start_of_operation": "2022-02-09"
   },
   {
     "ispb": 4866275,
@@ -1243,7 +1252,7 @@
   },
   {
     "ispb": 16501555,
-    "name": "STONE PAGAMENTOS S.A.",
+    "name": "STONE IP S.A.",
     "code": 197,
     "participate_of_compe": false,
     "main_access": "RSFN",

@@ -441,6 +441,15 @@
     "start_of_operation": "2018-10-25"
   },
   {
+    "ispb": 3844699,
+    "name": "CECM DOS TRAB.PORT. DA G.VITOR",
+    "code": 385,
+    "participate_of_compe": false,
+    "main_access": "Internet",
+    "full_name": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
+    "start_of_operation": "2022-03-08"
+  },
+  {
     "ispb": 3881423,
     "name": "SOCINAL S.A. CFI",
     "code": 425,
@@ -2912,7 +2921,7 @@
     "code": 289,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "DECYSEO CORRETORA DE CAMBIO LTDA.",
+    "full_name": "EFX CORRETORA DE CÂMBIO LTDA.",
     "start_of_operation": "2019-03-14"
   }
 ]

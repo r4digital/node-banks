@@ -36,6 +36,15 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 122327,
+    "name": "SANTINVEST S.A. - CFI",
+    "code": 539,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "start_of_operation": "2023-04-17"
+  },
+  {
     "ispb": 204963,
     "name": "CCR SEARA",
     "code": 430,
@@ -135,6 +144,15 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 714671,
+    "name": "EWALLY IP S.A.",
+    "code": 534,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "EWALLY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "start_of_operation": "2023-04-03"
+  },
+  {
     "ispb": 795423,
     "name": "BANCO SEMEAR",
     "code": 743,
@@ -151,6 +169,15 @@
     "main_access": "RSFN",
     "full_name": "Planner Corretora de Valores S.A.",
     "start_of_operation": "2011-04-27"
+  },
+  {
+    "ispb": 954288,
+    "name": "FDO GARANTIDOR CRÉDITOS",
+    "code": 541,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "FUNDO GARANTIDOR DE CREDITOS - FGC",
+    "start_of_operation": "2023-03-08"
   },
   {
     "ispb": 997185,
@@ -172,11 +199,11 @@
   },
   {
     "ispb": 1027058,
-    "name": "CIELO S.A.",
+    "name": "CIELO IP S.A.",
     "code": 362,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "CIELO S.A.",
+    "full_name": "CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO",
     "start_of_operation": "2020-07-17"
   },
   {
@@ -234,15 +261,6 @@
     "start_of_operation": "2002-04-22"
   },
   {
-    "ispb": 1800019,
-    "name": "PORTOCRED S.A. - CFI",
-    "code": 108,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
-    "start_of_operation": "2011-11-03"
-  },
-  {
     "ispb": 1852137,
     "name": "BCO BRASILEIRO DE CRÉDITO S.A.",
     "code": 378,
@@ -298,11 +316,11 @@
   },
   {
     "ispb": 2398976,
-    "name": "UNIPRIME DO BRASIL - CC LTDA.",
+    "name": "SISPRIME DO BRASIL - COOP",
     "code": 84,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "UNIPRIME DO BRASIL - COOPERATIVA DE CRéDITO LTDA.",
+    "full_name": "SISPRIME DO BRASIL - COOPERATIVA DE CRÉDITO",
     "start_of_operation": "2009-11-24"
   },
   {
@@ -343,11 +361,11 @@
   },
   {
     "ispb": 2992335,
-    "name": "CIP Siloc",
+    "name": "CIP SA Siloc",
     "code": null,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Câmara Interbancária de Pagamentos - CIP - LDL",
+    "full_name": "CIP S.A",
     "start_of_operation": "2004-02-13"
   },
   {
@@ -370,11 +388,11 @@
   },
   {
     "ispb": 3046391,
-    "name": "UNIPRIME CENTRAL CCC LTDA.",
+    "name": "UNIPRIME COOPCENTRAL LTDA.",
     "code": 99,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA.",
+    "full_name": "UNIPRIME CENTRAL NACIONAL - CENTRAL NACIONAL DE COOPERATIVA DE CREDITO",
     "start_of_operation": "2011-01-11"
   },
   {
@@ -403,15 +421,6 @@
     "main_access": "RSFN",
     "full_name": "Banco Alfa S.A.",
     "start_of_operation": "2002-04-22"
-  },
-  {
-    "ispb": 3502968,
-    "name": "PI DTVM S.A.",
-    "code": 315,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "PI Distribuidora de Títulos e Valores Mobiliários S.A.",
-    "start_of_operation": "2019-01-24"
   },
   {
     "ispb": 3532415,
@@ -445,7 +454,7 @@
     "name": "CECM DOS TRAB.PORT. DA G.VITOR",
     "code": 385,
     "participate_of_compe": false,
-    "main_access": "Internet",
+    "main_access": "RSFN",
     "full_name": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
     "start_of_operation": "2022-03-08"
   },
@@ -469,11 +478,11 @@
   },
   {
     "ispb": 4062902,
-    "name": "VISION S.A. CC",
+    "name": "OZ CORRETORA DE CÂMBIO S.A.",
     "code": 296,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "VISION S.A. CORRETORA DE CAMBIO",
+    "full_name": "OZ CORRETORA DE CÂMBIO S.A.",
     "start_of_operation": "2019-02-11"
   },
   {
@@ -518,7 +527,7 @@
     "code": null,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Câmara Interbancária de Pagamentos",
+    "full_name": "CIP S.A",
     "start_of_operation": "2002-11-27"
   },
   {
@@ -550,12 +559,21 @@
   },
   {
     "ispb": 4814563,
-    "name": "BCO SOROCRED S.A. - BM",
+    "name": "BCO AFINZ S.A. - BM",
     "code": 299,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
+    "full_name": "BANCO AFINZ S.A. - BANCO MÚLTIPLO",
     "start_of_operation": "2018-12-03"
+  },
+  {
+    "ispb": 4831810,
+    "name": "CECM SERV PUBL PINHÃO",
+    "code": 471,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "start_of_operation": "2022-07-18"
   },
   {
     "ispb": 4862600,
@@ -643,7 +661,7 @@
     "name": "COOP CREDITAG",
     "code": 400,
     "participate_of_compe": false,
-    "main_access": "Internet",
+    "main_access": "RSFN",
     "full_name": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
     "start_of_operation": "2021-02-24"
   },
@@ -658,11 +676,11 @@
   },
   {
     "ispb": 5684234,
-    "name": "PLANNER SCM S.A.",
+    "name": "PLANNER SOCIEDADE DE CRÉDITO DIRETO",
     "code": 410,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.",
+    "full_name": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-02-17"
   },
   {
@@ -694,11 +712,11 @@
   },
   {
     "ispb": 7138049,
-    "name": "LECCA DTVM LTDA",
+    "name": "LIGA INVEST DTVM LTDA.",
     "code": 469,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "LECCA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+    "full_name": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
     "start_of_operation": "2022-03-09"
   },
   {
@@ -792,15 +810,6 @@
     "start_of_operation": "2021-08-09"
   },
   {
-    "ispb": 7853842,
-    "name": "CCR DE OURO",
-    "code": 286,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO",
-    "start_of_operation": "2018-09-17"
-  },
-  {
     "ispb": 7945233,
     "name": "POLOCRED SCMEPP LTDA.",
     "code": 93,
@@ -814,7 +823,7 @@
     "name": "CCR DE IBIAM",
     "code": 391,
     "participate_of_compe": false,
-    "main_access": "Internet",
+    "main_access": "RSFN",
     "full_name": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM",
     "start_of_operation": "2020-07-10"
   },
@@ -865,11 +874,11 @@
   },
   {
     "ispb": 9089356,
-    "name": "GERENCIANET",
+    "name": "EFÍ S.A. - IP",
     "code": 364,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "GERENCIANET S.A.",
+    "full_name": "EFÍ S.A. - INSTITUIÇÃO DE PAGAMENTO",
     "start_of_operation": "2020-03-16"
   },
   {
@@ -928,20 +937,29 @@
   },
   {
     "ispb": 9516419,
-    "name": "BCO ORIGINAL DO AGRO S/A",
+    "name": "PICPAY BANK - BANCO MÚLTIPLO S.A",
     "code": 79,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Banco Original do Agronegócio S.A.",
+    "full_name": "PICPAY BANK - BANCO MÚLTIPLO S.A",
     "start_of_operation": "2008-07-25"
   },
   {
+    "ispb": 9526594,
+    "name": "MASTER BI S.A.",
+    "code": 141,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "BANCO MASTER DE INVESTIMENTO S.A.",
+    "start_of_operation": "2023-03-20"
+  },
+  {
     "ispb": 9554480,
-    "name": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.",
+    "name": "SUPERDIGITAL I.P. S.A.",
     "code": 340,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Super Pagamentos e Administração de Meios Eletrônicos S.A.",
+    "full_name": "SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A.",
     "start_of_operation": "2019-09-25"
   },
   {
@@ -952,6 +970,15 @@
     "main_access": "RSFN",
     "full_name": "BancoSeguro S.A.",
     "start_of_operation": "2008-10-24"
+  },
+  {
+    "ispb": 10371492,
+    "name": "BCO YAMAHA MOTOR S.A.",
+    "code": 475,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "Banco Yamaha Motor do Brasil S.A.",
+    "start_of_operation": "2022-09-05"
   },
   {
     "ispb": 10398952,
@@ -1018,11 +1045,11 @@
   },
   {
     "ispb": 11285104,
-    "name": "BIORC FINANCEIRA - CFI S.A.",
+    "name": "NEON FINANCEIRA - CFI S.A.",
     "code": 426,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
+    "full_name": "NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
     "start_of_operation": "2021-05-21"
   },
   {
@@ -1045,11 +1072,11 @@
   },
   {
     "ispb": 11581339,
-    "name": "MONEY PLUS SCMEPP LTDA",
+    "name": "BMP SCMEPP LTDA",
     "code": 274,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT",
+    "full_name": "BMP SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.",
     "start_of_operation": "2019-09-10"
   },
   {
@@ -1098,15 +1125,6 @@
     "start_of_operation": "2021-09-27"
   },
   {
-    "ispb": 12865507,
-    "name": "BRK S.A. CFI",
-    "code": 92,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "BRK S.A. Crédito, Financiamento e Investimento",
-    "start_of_operation": "2010-07-01"
-  },
-  {
     "ispb": 13009717,
     "name": "BCO DO EST. DE SE S.A.",
     "code": 47,
@@ -1126,20 +1144,20 @@
   },
   {
     "ispb": 13140088,
-    "name": "ACESSO SOLUCOES PAGAMENTO SA",
+    "name": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
     "code": 332,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Acesso Soluções de Pagamento S.A.",
+    "full_name": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
     "start_of_operation": "2019-08-16"
   },
   {
     "ispb": 13203354,
-    "name": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+    "name": "FITBANK IP",
     "code": 450,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+    "full_name": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
     "start_of_operation": "2021-06-30"
   },
   {
@@ -1162,11 +1180,11 @@
   },
   {
     "ispb": 13370835,
-    "name": "BPP IP S.A.",
+    "name": "DOCK IP S.A.",
     "code": 301,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "BPP Instituição de Pagamento S.A.",
+    "full_name": "DOCK INSTITUIÇÃO DE PAGAMENTO S.A.",
     "start_of_operation": "2018-09-26"
   },
   {
@@ -1198,12 +1216,21 @@
   },
   {
     "ispb": 13884775,
-    "name": "HUB PAGAMENTOS",
+    "name": "HUB IP S.A.",
     "code": 396,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "HUB PAGAMENTOS S.A",
+    "full_name": "HUB INSTITUIÇÃO DE PAGAMENTO S.A.",
     "start_of_operation": "2020-08-13"
+  },
+  {
+    "ispb": 13935893,
+    "name": "CELCOIN IP S.A.",
+    "code": 509,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "CELCOIN INSTITUICAO DE PAGAMENTO S.A.",
+    "start_of_operation": "2023-01-23"
   },
   {
     "ispb": 14190547,
@@ -1249,6 +1276,15 @@
     "main_access": "RSFN",
     "full_name": "Banco Bocom BBM S.A.",
     "start_of_operation": "2002-04-22"
+  },
+  {
+    "ispb": 15124464,
+    "name": "BANCO BESA S.A.",
+    "code": 334,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "BANCO BESA S.A.",
+    "start_of_operation": "2023-02-22"
   },
   {
     "ispb": 15173776,
@@ -1312,6 +1348,15 @@
     "main_access": "RSFN",
     "full_name": "Broker Brasil Corretora de Câmbio Ltda.",
     "start_of_operation": "2015-06-23"
+  },
+  {
+    "ispb": 17079937,
+    "name": "PINBANK IP",
+    "code": 529,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "PINBANK BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "start_of_operation": "2022-11-16"
   },
   {
     "ispb": 17184037,
@@ -1396,11 +1441,11 @@
   },
   {
     "ispb": 18394228,
-    "name": "CDC SOCIEDADE DE CRÉDITO",
+    "name": "CDC SCD S.A.",
     "code": 470,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.",
+    "full_name": "CDC SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2022-03-15"
   },
   {
@@ -1414,11 +1459,11 @@
   },
   {
     "ispb": 19307785,
-    "name": "MS BANK S.A. BCO DE CÂMBIO",
+    "name": "BRAZA BANK S.A. BCO DE CÂMBIO",
     "code": 128,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "MS Bank S.A. Banco de Câmbio",
+    "full_name": "BRAZA BANK S.A. BANCO DE CÂMBIO",
     "start_of_operation": "2015-04-27"
   },
   {
@@ -1435,7 +1480,7 @@
     "name": "ASAAS IP S.A.",
     "code": 461,
     "participate_of_compe": false,
-    "main_access": "Internet",
+    "main_access": "RSFN",
     "full_name": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.",
     "start_of_operation": "2021-10-29"
   },
@@ -1447,6 +1492,15 @@
     "main_access": "RSFN",
     "full_name": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
     "start_of_operation": "2017-10-25"
+  },
+  {
+    "ispb": 20855875,
+    "name": "NEON PAGAMENTOS S.A. IP",
+    "code": 536,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "NEON PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "start_of_operation": "2023-01-12"
   },
   {
     "ispb": 21018182,
@@ -1485,15 +1539,6 @@
     "start_of_operation": "2020-10-15"
   },
   {
-    "ispb": 23522214,
-    "name": "COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO",
-    "code": 163,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "Commerzbank Brasil S.A. - Banco Múltiplo",
-    "start_of_operation": "2016-08-10"
-  },
-  {
     "ispb": 23862762,
     "name": "WILL FINANCEIRA S.A.CFI",
     "code": 280,
@@ -1522,11 +1567,11 @@
   },
   {
     "ispb": 26563270,
-    "name": "CCR DE PRIMAVERA DO LESTE",
+    "name": "COOP DE PRIMAVERA DO LESTE",
     "code": 279,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "COOPERATIVA DE CREDITO RURAL DE PRIMAVERA DO LESTE",
+    "full_name": "PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE",
     "start_of_operation": "2018-06-05"
   },
   {
@@ -1621,11 +1666,11 @@
   },
   {
     "ispb": 29011780,
-    "name": "CIP C3",
+    "name": "CIP SA C3",
     "code": null,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Câmara Interbancária de Pagamentos - CIP C3",
+    "full_name": "CIP S.A",
     "start_of_operation": "2012-01-30"
   },
   {
@@ -1672,6 +1717,15 @@
     "main_access": "RSFN",
     "full_name": "Banco Modal S.A.",
     "start_of_operation": "2002-04-22"
+  },
+  {
+    "ispb": 30980539,
+    "name": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "code": 546,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "start_of_operation": "2023-04-24"
   },
   {
     "ispb": 31597552,
@@ -1917,6 +1971,15 @@
     "start_of_operation": "2008-07-31"
   },
   {
+    "ispb": 34265629,
+    "name": "INTERCAM CC LTDA",
+    "code": 525,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "INTERCAM CORRETORA DE CÂMBIO LTDA.",
+    "start_of_operation": "2022-12-05"
+  },
+  {
     "ispb": 34335592,
     "name": "ÓTIMO SCD S.A.",
     "code": 355,
@@ -1933,6 +1996,15 @@
     "main_access": "RSFN",
     "full_name": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
     "start_of_operation": "2020-03-12"
+  },
+  {
+    "ispb": 34829992,
+    "name": "REAG DTVM S.A.",
+    "code": 528,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "start_of_operation": "2023-03-06"
   },
   {
     "ispb": 35551187,
@@ -1962,6 +2034,24 @@
     "start_of_operation": "2011-03-24"
   },
   {
+    "ispb": 36266751,
+    "name": "FINVEST DTVM",
+    "code": 512,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2022-08-01"
+  },
+  {
+    "ispb": 36583700,
+    "name": "QISTA S.A. CFI",
+    "code": 516,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "start_of_operation": "2022-10-24"
+  },
+  {
     "ispb": 36586946,
     "name": "BONUSPAGO SCD S.A.",
     "code": 408,
@@ -1971,13 +2061,31 @@
     "start_of_operation": "2020-10-14"
   },
   {
+    "ispb": 36864992,
+    "name": "MAF DTVM SA",
+    "code": 484,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "start_of_operation": "2022-07-20"
+  },
+  {
     "ispb": 36947229,
-    "name": "COBUCCIO SCD S.A.",
+    "name": "COBUCCIO S.A. SCFI",
     "code": 402,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "COBUCCIO S/A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",
     "start_of_operation": "2020-12-03"
+  },
+  {
+    "ispb": 37229413,
+    "name": "SCFI EFÍ S.A.",
+    "code": 507,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.",
+    "start_of_operation": "2022-12-12"
   },
   {
     "ispb": 37241230,
@@ -1999,21 +2107,30 @@
   },
   {
     "ispb": 37526080,
-    "name": "WORK SCD S.A.",
+    "name": "LEND SCD S.A.",
     "code": 414,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "WORK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "LEND SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-03-25"
   },
   {
     "ispb": 37555231,
-    "name": "DMCARD SCD S.A.",
+    "name": "DM",
     "code": 449,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "DM SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-10-22"
+  },
+  {
+    "ispb": 37679449,
+    "name": "MERCADO CRÉDITO SCFI S.A.",
+    "code": 518,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MERCADO CRÉDITO SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "start_of_operation": "2023-01-30"
   },
   {
     "ispb": 37715993,
@@ -2052,6 +2169,15 @@
     "start_of_operation": "2021-08-27"
   },
   {
+    "ispb": 38429045,
+    "name": "FÊNIX DTVM LTDA.",
+    "code": 455,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2022-12-05"
+  },
+  {
     "ispb": 39343350,
     "name": "CC LAR CREDI",
     "code": 421,
@@ -2070,6 +2196,15 @@
     "start_of_operation": "2021-11-18"
   },
   {
+    "ispb": 39519944,
+    "name": "MARU SCD S.A.",
+    "code": 535,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-02-10"
+  },
+  {
     "ispb": 39587424,
     "name": "UY3 SCD S/A",
     "code": 457,
@@ -2080,11 +2215,11 @@
   },
   {
     "ispb": 39664698,
-    "name": "CRED-SYSTEM SCD S.A.",
+    "name": "CREDSYSTEM SCD S.A.",
     "code": 428,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "CRED-SYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "full_name": "CREDSYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-04-20"
   },
   {
@@ -2104,6 +2239,15 @@
     "main_access": "RSFN",
     "full_name": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "start_of_operation": "2021-09-15"
+  },
+  {
+    "ispb": 39738065,
+    "name": "FFCRED SCD S.A.",
+    "code": 510,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A..",
+    "start_of_operation": "2022-11-30"
   },
   {
     "ispb": 39908427,
@@ -2160,6 +2304,15 @@
     "start_of_operation": "2021-09-09"
   },
   {
+    "ispb": 40768766,
+    "name": "LIONS TRUST DTVM",
+    "code": 519,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2022-12-12"
+  },
+  {
     "ispb": 41592532,
     "name": "MÉRITO DTVM LTDA.",
     "code": 454,
@@ -2176,6 +2329,24 @@
     "main_access": "RSFN",
     "full_name": "UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A",
     "start_of_operation": "2022-01-18"
+  },
+  {
+    "ispb": 42066258,
+    "name": "RJI",
+    "code": 506,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+    "start_of_operation": "2022-07-21"
+  },
+  {
+    "ispb": 42259084,
+    "name": "SBCASH SCD",
+    "code": 482,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2022-10-11"
   },
   {
     "ispb": 42272526,
@@ -2196,6 +2367,24 @@
     "start_of_operation": "2017-11-21"
   },
   {
+    "ispb": 43599047,
+    "name": "SUPERLÓGICA SCD S.A.",
+    "code": 481,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2022-08-29"
+  },
+  {
+    "ispb": 44019481,
+    "name": "PEAK SEP S.A.",
+    "code": 521,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
+    "start_of_operation": "2023-01-27"
+  },
+  {
     "ispb": 44077014,
     "name": "BR-CAPITAL DTVM S.A.",
     "code": 433,
@@ -2214,6 +2403,42 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 44292580,
+    "name": "HR DIGITAL SCD",
+    "code": 523,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "start_of_operation": "2023-02-15"
+  },
+  {
+    "ispb": 44478623,
+    "name": "ATICCA SCD S.A.",
+    "code": 527,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "ATICCA - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-02-06"
+  },
+  {
+    "ispb": 44683140,
+    "name": "MAGNUM SCD",
+    "code": 511,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2022-08-22"
+  },
+  {
+    "ispb": 44728700,
+    "name": "ATF CREDIT SCD S.A.",
+    "code": 513,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2022-12-02"
+  },
+  {
     "ispb": 45246410,
     "name": "BANCO GENIAL",
     "code": 125,
@@ -2221,6 +2446,42 @@
     "main_access": "RSFN",
     "full_name": "BANCO GENIAL S.A.",
     "start_of_operation": "2012-11-19"
+  },
+  {
+    "ispb": 45745537,
+    "name": "EAGLE SCD S.A.",
+    "code": 532,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-04-03"
+  },
+  {
+    "ispb": 45756448,
+    "name": "MICROCASH SCMEPP LTDA.",
+    "code": 537,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
+    "start_of_operation": "2023-03-06"
+  },
+  {
+    "ispb": 45854066,
+    "name": "WNT CAPITAL DTVM",
+    "code": 524,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "start_of_operation": "2023-03-01"
+  },
+  {
+    "ispb": 46026562,
+    "name": "MONETARIE SCD",
+    "code": 526,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "MONETARIE SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-01-20"
   },
   {
     "ispb": 46518205,
@@ -2232,21 +2493,30 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 47593544,
+    "name": "RED SCD S.A.",
+    "code": 522,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "RED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-03-27"
+  },
+  {
+    "ispb": 47873449,
+    "name": "SER FINANCE SCD S.A.",
+    "code": 530,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "start_of_operation": "2023-03-14"
+  },
+  {
     "ispb": 48795256,
     "name": "BCO ANDBANK S.A.",
     "code": 65,
     "participate_of_compe": false,
     "main_access": "RSFN",
     "full_name": "Banco AndBank (Brasil) S.A.",
-    "start_of_operation": "2002-04-22"
-  },
-  {
-    "ispb": 49336860,
-    "name": "ING BANK N.V.",
-    "code": 492,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "ING Bank N.V.",
     "start_of_operation": "2002-04-22"
   },
   {
@@ -2266,15 +2536,6 @@
     "main_access": "RSFN",
     "full_name": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
     "start_of_operation": "2002-04-22"
-  },
-  {
-    "ispb": 52904364,
-    "name": "NECTON INVESTIMENTOS S.A CVM",
-    "code": 354,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "NECTON INVESTIMENTOS  S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES",
-    "start_of_operation": "2019-10-30"
   },
   {
     "ispb": 52937216,
@@ -2466,15 +2727,6 @@
     "start_of_operation": "2002-04-22"
   },
   {
-    "ispb": 60872504,
-    "name": "ITAÚ UNIBANCO HOLDING S.A.",
-    "code": 652,
-    "participate_of_compe": false,
-    "main_access": "RSFN",
-    "full_name": "Itaú Unibanco Holding S.A.",
-    "start_of_operation": "2002-04-22"
-  },
-  {
     "ispb": 60889128,
     "name": "BCO SOFISA S.A.",
     "code": 637,
@@ -2547,12 +2799,21 @@
     "start_of_operation": "2002-04-22"
   },
   {
+    "ispb": 61384004,
+    "name": "AVENUE SECURITIES DTVM LTDA.",
+    "code": 508,
+    "participate_of_compe": false,
+    "main_access": "RSFN",
+    "full_name": "AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "start_of_operation": "2022-08-18"
+  },
+  {
     "ispb": 61444949,
-    "name": "SAGITUR CC LTDA",
+    "name": "SAGITUR CC",
     "code": 270,
     "participate_of_compe": false,
     "main_access": "Internet",
-    "full_name": "Sagitur Corretora de Câmbio Ltda.",
+    "full_name": "SAGITUR CORRETORA DE CÂMBIO S.A.",
     "start_of_operation": "2018-08-01"
   },
   {
@@ -2701,11 +2962,11 @@
   },
   {
     "ispb": 67030395,
-    "name": "PLANNER TRUSTEE DTVM LTDA",
+    "name": "TRUSTEE DTVM LTDA.",
     "code": 438,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "full_name": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
     "start_of_operation": "2021-05-04"
   },
   {
@@ -2746,11 +3007,11 @@
   },
   {
     "ispb": 71677850,
-    "name": "FRENTE CC LTDA.",
+    "name": "FRENTE CC S.A.",
     "code": 285,
     "participate_of_compe": false,
     "main_access": "RSFN",
-    "full_name": "Frente Corretora de Câmbio Ltda.",
+    "full_name": "FRENTE CORRETORA DE CÂMBIO S.A.",
     "start_of_operation": "2018-09-25"
   },
   {

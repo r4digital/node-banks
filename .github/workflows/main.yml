@@ -19,7 +19,7 @@ jobs:
         name: Setup Node.js environment
       - run: npm install
         name: Install Node dependencies
-      - run: npm build
+      - run: npm run build
         name: Build typescript
       - run: npm publish --access public
         env:
